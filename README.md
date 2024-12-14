@@ -61,7 +61,7 @@ Actualiza la información de una matrícula existente.
 #### DELETE /enrollments/{id}
 Elimina el registro de una matrícula específica.
 
-#### GET /courses-students
+#### GET /enrollments/courses-students
 Muestra la relación de cursos matriculados y sus estudiantes correspondientes usando programación funcional.
 
 ---
